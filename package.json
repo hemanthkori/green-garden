@@ -1,0 +1,26 @@
+{
+  "name": "green-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.28.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthkori/green-garden.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hemanthkori/green-garden/issues"
+  },
+  "homepage": "https://github.com/hemanthkori/green-garden#readme"
+}
